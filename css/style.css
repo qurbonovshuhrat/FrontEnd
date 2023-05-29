@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body
+{
+ max-width: 100%;
+}
+.frame2 {
+  position: absolute;
+  width: 100%;
+  height: 47px;
+  left: 0px;
+  top: 0px;
+  background: #2a2a2a;
+}
+.vector{
+    position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 16.67%;
+bottom: 16.67%;
+
+}
+.vector2{
+    position: absolute;
+width: 24px;
+height: 24px;
+left: 380px;
+top: 11px;
+}
+.email{
+    position: absolute;
+width: 114px;
+height: 9px;
+left: 418px;
+top: 18px;
+font-family: 'Cerebri Sans Pro';
+font-weight: 600;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+}
+.vector3{
+    position: absolute;
+width: 0px;
+height: 14px;
+left: 549px;
+top: 16px;
+
+border: 1px solid rgba(255, 255, 255, 0.5);
+}
+.text2{
+    position: absolute;
+width: 186px;
+height: 9px;
+left: 569px;
+top: 19px;
+
+font-family: 'Cerebri Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+.facebook{
+   position: absolute;
+   width: 18px;
+   height: 18px;
+   left: 1154px;
+   top: 14px;
+   
+
+}
+.whatsapp{
+    position: absolute;
+width: 18px;
+height: 18px;
+left: 1192px;
+top: 14px;
+}
+.twitter{
+    position: absolute;
+width: 18px;
+height: 18px;
+left: 1230px;
+top: 14px;
+}
