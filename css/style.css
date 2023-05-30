@@ -1,0 +1,231 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  max-width: 100%;
+}
+.frame2 {
+  position: absolute;
+  width: 100%;
+  height: 47px;
+  left: 0px;
+  top: 0px;
+  background: #2a2a2a;
+}
+.vector {
+  position: absolute;
+  left: 8.33%;
+  right: 8.33%;
+  top: 16.67%;
+  bottom: 16.67%;
+}
+.vector2 {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 180px;
+  top: 11px;
+}
+.email {
+  position: absolute;
+  width: 114px;
+  height: 9px;
+  left: 218px;
+  top: 18px;
+  font-family: "Cerebri Sans Pro";
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 14px;
+  display: flex;
+  align-items: center;
+
+  color: #ffffff;
+}
+.vector3 {
+  position: absolute;
+  width: 0px;
+  height: 14px;
+  left: 349px;
+  top: 16px;
+
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+.text2 {
+  position: absolute;
+  width: 186px;
+  height: 9px;
+  left: 369px;
+  top: 19px;
+
+  font-family: "Cerebri Sans Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 14px;
+  display: flex;
+  align-items: center;
+
+  color: #ffffff;
+}
+.facebook {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  left: 854px;
+  top: 14px;
+}
+.whatsapp {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  left: 892px;
+  top: 14px;
+}
+.instagram {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  left: 930px;
+  top: 14px;
+}
+.twitter {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  left: 968px;
+  top: 14px;
+}
+.engilish_flag {
+  position: absolute;
+  width: 27px;
+  height: 14px;
+  left: 1026px;
+  top: 16px;
+
+  background: url(united-kingdom.png), #ffffff;
+}
+.english_text {
+  position: absolute;
+  width: 42px;
+  height: 9px;
+  left: 1062px;
+  top: 18px;
+
+  font-family: "Cerebri Sans Pro";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 14px;
+  display: flex;
+  align-items: center;
+
+  color: #ffffff;
+}
+.past_strelka {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  left: 1110px;
+  top: 14px;
+}
+.vector4 {
+  position: absolute;
+  width: 0px;
+  height: 14px;
+  left: 1148px;
+  top: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+.user
+{
+    position: absolute;
+width: 24px;
+height: 24px;
+left: 1168px;
+top: 16px;
+}
+.login{
+    position: absolute;
+width: 32px;
+height: 9px;
+left: 1198px;
+top: 18px;
+
+font-family: 'Cerebri Sans Pro';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+.section2
+{
+    position: absolute;
+width: 1920px;
+height: 80px;
+left: 0px;
+top: 47px;
+
+background: #FFFFFF;
+}
+.fruit{
+    position: absolute;
+width: 179px;
+height: 29px;
+left: 190px;
+top: 21px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+line-height: 40px;
+/* or 111% */
+
+display: flex;
+align-items: center;
+text-transform: capitalize;
+color: #2A2A2A;
+}
+.home{
+
+
+
+position: absolute;
+width: 52px;
+height: 13px;
+left: 480px;
+top: 33px;
+
+font-family: 'Cerebri Sans Pro';
+font-style: normal;
+font-weight: 800;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #7FAD39;
+}
+.text1{
+position: absolute;
+width: 78px;
+height: 13px;
+left: 567px;
+top: 34px;
+font-family: 'Cerebri Sans Pro';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #2A2A2A;
+
+}
