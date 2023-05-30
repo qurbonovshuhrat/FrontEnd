@@ -212,12 +212,15 @@ align-items: center;
 
 color: #7FAD39;
 }
-.text1{
+.SHOP{
+/* SHOP */
+
 position: absolute;
-width: 78px;
+width: 47px;
 height: 13px;
-left: 567px;
-top: 34px;
+left: 667px;
+top: 33px;
+
 font-family: 'Cerebri Sans Pro';
 font-style: normal;
 font-weight: 500;
@@ -228,4 +231,486 @@ align-items: center;
 
 color: #2A2A2A;
 
+
+
+}
+.PAGES{
+  /* PAGES */
+
+position: absolute;
+width: 52px;
+height: 13px;
+left: 754px;
+top: 34px;
+
+font-family: 'Cerebri Sans Pro';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #2A2A2A;
+
+
+}
+
+.BLOG{
+  /* BLOG */
+
+position: absolute;
+width: 43px;
+height: 13px;
+left: 846px;
+top: 34px;
+
+font-family: 'Cerebri Sans Pro';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #2A2A2A;
+
+
+}
+
+
+.CONTACT{
+  /* CONTACT */
+
+position: absolute;
+width: 78px;
+height: 13px;
+left: 929px;
+top: 34px;
+
+font-family: 'Cerebri Sans Pro';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #2A2A2A;
+
+
+}
+.engilish_flag_img{
+  /* Rectangle 1 */
+
+position: absolute;
+
+height: 14px;
+top: 16px;
+
+background: url(united-kingdom.png), #FFFFFF;
+
+}
+
+.rasm{
+  position: absolute;
+width: 536px;
+height: 356px;
+left: 309px;
+top: 42px;
+
+background: url(uCrz4Z5ehRS6vyJioMJxMgJwpC6IjYa4J3VPstTGOGA_TXL+ZJ7hx3uxE6PGbDlzfMTcCQwmlFmcz0JgFqlVAsJUjOR+oTlA4jKlgKYdL7FyzkGblar5udGyciYZVbzMOd+boLYj2RhGmxW6JwbNQnFZFNM+QGcwBO1ooxHG74+M_O7QW1hOsQrTNhL6LSUm1EsKGRMDLiRnR57ksd83LN.jpg);
+mix-blend-mode: darken;
+}
+
+.like{
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 1343px;
+  top: 31px;
+}
+.daraja{
+  /* Frame 8 */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 1359px;
+top: 25px;
+
+background: #7FAD39;
+border: 1px solid #FFFFFF;
+border-radius: 50px;
+
+
+}
+
+
+.raqam{
+  position: absolute;
+width: 8px;
+height: 9px;
+left: 3px;
+top: 2px;
+
+font-family: 'Cerebri Sans Pro';
+font-style: normal;
+font-weight: 800;
+font-size: 10px;
+line-height: 12px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+.paket{
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 1383px;
+  top: 29px;
+  
+}
+.daraja2{
+  /* Frame 9 */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 1396px;
+top: 25px;
+background: #7FAD39;
+border: 1px solid #FFFFFF;
+border-radius: 50px;
+
+}
+.item_text{
+  /* item:$150.00 */
+
+position: absolute;
+width: 103px;
+height: 13px;
+left: 1430px;
+top: 33px;
+
+font-family: 'Cerebri Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #999999;
+
+
+}
+
+.bold_text {
+  font-weight: bold;
+  color: #2A2A2A;
+}
+.menu{
+  position: absolute;
+width: 24px;
+height: 24px;
+left: 20px;
+top: 17px;
+}
+.frame4{
+  /* Frame 4 */
+
+position: absolute;
+width: 270px;
+height: 50px;
+left: 290px;
+top: 127px;
+
+background: #7FAD39;
+
+}
+
+.all_department{
+  /* All Department */
+
+position: absolute;
+width: 123px;
+height: 13px;
+left: 64px;
+top: 20px;
+
+font-family: 'Cerebri Sans Pro';
+font-style: normal;
+font-weight: 800;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+}
+.past_strelka2  {
+  /* expand_more_black_24dp (1) */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 226px;
+top: 17px;
+
+
+}
+.frame5{
+  box-sizing: border-box;
+
+position: absolute;
+width: 621px;
+height: 50px;
+left: 580px;
+top: 127px;
+
+background: #FFFFFF;
+border: 1px solid rgba(42, 42, 42, 0.2);
+}
+
+.frame5_text{
+  /* All Categories */
+
+position: absolute;
+width: 113px;
+height: 13px;
+left: 20px;
+top: 18px;
+
+font-family: 'Cerebri Sans Pro';
+font-style: normal;
+font-weight: 800;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #2A2A2A;
+
+
+}
+.frame5_past_strelka{
+  /* Vector */
+
+/* expand_more_black_24dp (1) */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 149px;
+top: 13px;
+
+}
+
+.frame5_text2{
+  /* What do you need? */
+
+position: absolute;
+width: 152px;
+height: 13px;
+left: 213px;
+top: 18px;
+
+font-family: 'Cerebri Sans Pro';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #999999;
+
+
+}
+.search_btn{
+  /* Frame 6 */
+
+position: absolute;
+width: 106px;
+height: 50px;
+left: 515px;
+top: 0px;
+
+background: #7FAD39;
+
+
+/* SEARCH */
+
+
+
+}
+.search_btn_text{
+  position: absolute;
+width: 67px;
+height: 13px;
+left: 19px;
+top: 18px;
+
+font-family: 'Cerebri Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+.frame6{
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 1337px;
+  top: 127px;
+  
+  background: #F5F5F5;
+  border-radius: 600px;
+}
+
+.qongiroq{
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 13px;
+top: 13px;
+
+
+}
+.tel_raqam{
+/* +65 11.188.888 support 24/7 time */
+
+position: absolute;
+width: 126px;
+height: 32px;
+left: 1407px;
+top: 136px;
+
+font-family: 'Cerebri Sans Pro';
+font-style: normal;
+font-weight: 900;
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+display: flex;
+align-items: center;
+
+color: #2A2A2A;
+
+
+
+
+}
+.raqamni_tagi{
+  color: #999999;
+  font-size: 11px;
+}
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 1080px) {
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    max-width: 100%;
+  }
+  .frame2 {
+    left: 0px;
+  }
+  .vector {
+    left: 8.33%;
+  }
+  .vector2 {
+    left: 280px;
+  }
+  .email {
+    left: 318px;
+  }
+  .vector3 {
+    left: 449px;
+  }
+  .text2 {
+    left: 469px;
+  
+  }
+  .facebook {
+    left: 1154px;
+  }
+  .whatsapp {
+    left: 1192px;
+  }
+  .instagram {
+    left: 1230px;
+  }
+  .twitter {
+    left: 1268px;
+  }
+  .engilish_flag {
+    left: 1326px;
+   
+  }
+  .english_text {
+    left: 1362px;
+
+  }
+  .past_strelka {
+ 
+    left: 1410px;
+
+  }
+  .vector4 {
+
+    left: 1448px;
+
+  }
+  .user
+  {
+  left: 1468px;
+
+  }
+  .login{
+
+  left: 1498px;
+
+  }
+  .section2
+  {
+
+  left: 0px;
+ 
+  }
+  .fruit{
+
+  left: 290px;
+
+  }
+  .home{
+
+  left: 580px;
+ 
+  }
+  
+ 
 }
