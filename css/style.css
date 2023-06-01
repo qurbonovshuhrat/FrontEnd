@@ -719,6 +719,17 @@ position: absolute;
 width: 330px;
 height: 50px;
 left: 200px;
-background: #FFFFFF;
-border: 1px solid rgba(42, 42, 42, 0.2);
+border: 1px solid rgba(42, 42, 42, 0.2);  
+border-left: none;
 }
+
+.input_search_select{
+  box-sizing: border-box;
+  position: absolute;
+  width: 200px;
+  height: 50px;
+  left: 0px;
+  top:0;
+  border: 1px solid rgba(42, 42, 42, 0.2);
+  border-right: #7FAD39;
+  }
