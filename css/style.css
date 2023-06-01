@@ -733,3 +733,153 @@ border-left: none;
   border: 1px solid rgba(42, 42, 42, 0.2);
   border-right: #7FAD39;
   }
+  .frame10{
+    box-sizing: border-box;
+
+position: absolute;
+width: 270px;
+height: 441px;
+left: 290px;
+top: 197px;
+
+border: 1px solid rgba(42, 42, 42, 0.2);
+  }
+  .frame10_text
+{
+  position: absolute;
+width: 152px;
+height: 368px;
+left: 20px;
+top: 36px;
+
+font-family: 'Cerebri Sans Pro';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 36px;
+/* or 225% */
+display: flex;
+align-items: center;
+
+color: #999999;
+
+}
+li{
+  list-style-type: none; 
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+.frame11{
+
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 850px;
+  height: 441px;
+  left: 580px;
+  top: 197px;
+  
+  background: #F5F5F5;
+}
+.fruit_fresh{
+  position: absolute;
+width: 259px;
+height: 13px;
+left: 77px;
+top: 86px;
+
+font-family: 'Cerebri Sans Pro';
+font-style: normal;
+font-weight: 800;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+letter-spacing: 0.2em;
+
+color: #7FAD39;
+
+}
+.text_vegetables{
+  position: absolute;
+width: 384px;
+height: 72px;
+left: 77px;
+top: 129px;
+
+font-family: 'Cerebri Sans Pro';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 50px;
+/* or 125% */
+
+display: flex;
+align-items: center;
+
+color: #2A2A2A;
+
+}
+.frame11_6{
+position: absolute;
+width: 141px;
+height: 50px;
+left: 77px;
+top: 304px;
+border: none;
+background: #7FAD39;
+}
+.btn_shop{
+  position: absolute;
+width: 101px;
+height: 13px;
+left: 20px;
+top: 18px;
+
+font-family: 'Cerebri Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.vegatable_img{
+  position: absolute;
+width: 536px;
+height: 356px;
+left: 309px;
+top: 42px;
+
+background: url(uCrz4Z5ehRS6vyJioMJxMgJwpC6IjYa4J3VPstTGOGA_TXL+ZJ7hx3uxE6PGbDlzfMTcCQwmlFmcz0JgFqlVAsJUjOR+oTlA4jKlgKYdL7FyzkGblar5udGyciYZVbzMOd+boLYj2RhGmxW6JwbNQnFZFNM+QGcwBO1ooxHG74+M_O7QW1hOsQrTNhL6LSUm1EsKGRMDLiRnR57ksd83LN.jpg);
+mix-blend-mode: darken;
+}
+.frutit1{
+ 
+  position: absolute;
+  width: 240px;
+  height: 176px;
+  left: 20px;
+  top: 20px;
+  
+  background: url(furyM6V1vDwLDtvNRdWuhH1zJMg2DQbGl_AjR8tzUbseZ1Spv+HmLAZm6q_7JsmfRbnLdxgHuFRls6B0NLB5BUgDdufSr8SjSPw5yR+Hz7np9KK9SudmdSr8kq6to8ac3vdJ9KkfG7a+dseYGnrYdg73USDI9jBgeOiad8NoI3H+cAhSK8a+m2thilbRh8lo5fFar3ZK9Ezx4mg6V6fzqI.jpg);
+  mix-blend-mode: darken;
+}
