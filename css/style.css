@@ -883,3 +883,22 @@ mix-blend-mode: darken;
   background: url(furyM6V1vDwLDtvNRdWuhH1zJMg2DQbGl_AjR8tzUbseZ1Spv+HmLAZm6q_7JsmfRbnLdxgHuFRls6B0NLB5BUgDdufSr8SjSPw5yR+Hz7np9KK9SudmdSr8kq6to8ac3vdJ9KkfG7a+dseYGnrYdg73USDI9jBgeOiad8NoI3H+cAhSK8a+m2thilbRh8lo5fFar3ZK9Ezx4mg6V6fzqI.jpg);
   mix-blend-mode: darken;
 }
+.fruit_img{
+  position: absolute;
+  width: 270px;
+  height: 270px;
+  left: 290px;
+  top: 658px;
+  
+  background: #F5F5F5;
+}
+.img_fruit{
+  position: absolute;
+width: 240px;
+height: 176px;
+left: 120px;
+top: 20px;
+
+background: url(furyM6V1vDwLDtvNRdWuhH1zJMg2DQbGl_AjR8tzUbseZ1Spv+HmLAZm6q_7JsmfRbnLdxgHuFRls6B0NLB5BUgDdufSr8SjSPw5yR+Hz7np9KK9SudmdSr8kq6to8ac3vdJ9KkfG7a+dseYGnrYdg73USDI9jBgeOiad8NoI3H+cAhSK8a+m2thilbRh8lo5fFar3ZK9Ezx4mg6V6fzqI.jpg);
+mix-blend-mode: darken;
+}
